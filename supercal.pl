@@ -25,7 +25,7 @@ table {
 td {
 	text-align: center;
 	padding: 5px;
-}}
+}
 </style>
 <script>
 function facs(){
