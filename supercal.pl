@@ -34,6 +34,7 @@ function facs(){
 	if (doing_math_symbol == "!"){
 		document.getElementById("second_val_not").disabled = true;
 	}
+	else{document.getElementById("second_val_not").disabled = false;}
 }
 </script>
 <meta charset="UTF-8">
